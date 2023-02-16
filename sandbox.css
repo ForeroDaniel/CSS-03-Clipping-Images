@@ -5,3 +5,6 @@
     http://bennettfeely.com/clippy/
 
    ====================================== */
+.clip-image-1 {
+    clip-path: circle(50% at 50% 50%);
+}
